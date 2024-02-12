@@ -1,0 +1,27 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: grey;
+}
+
+h2{
+    color: green;
+}
+
+/* seleccionar por clase */
+.fordAmarillo{
+    color: yellow;
+}
+
+.fiatRojo{
+    color: red;
+}
+
+/* seleccionar por id */
+
+#titulo1{
+    color: blueviolet;
+}
+
+#titulo2{
+    color: chocolate;
+}
